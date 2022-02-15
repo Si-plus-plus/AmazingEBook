@@ -19,7 +19,7 @@ A simple website to find and rent ebook. All features are mainly based on exam s
 7. Run `php artisan serve` to run the app through the generated local url
 
 # References
-### Names
+### Seeded Names
 * [Behind The Name](https://www.behindthename.com/random/)
 
 ### User Profiles
