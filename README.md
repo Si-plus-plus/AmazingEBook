@@ -7,7 +7,7 @@
 <hr>
 
 # Brief
-A simple website to find and rent ebook. All features are mainly based on exam sheet. [Web demo](https://youtu.be/pyySw5HfYbo).
+A simple website to find and rent ebook. All features are mainly based on exam sheet. 
 
 # Running the app
 1. Create a MySQL database
